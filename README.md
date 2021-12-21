@@ -5,3 +5,4 @@ Repositório do curso em Python do Prof. Guanabara
 
 1. Python - Mundo 1
 2. Python - Mundo 2
+3. Python - Mundo 3
