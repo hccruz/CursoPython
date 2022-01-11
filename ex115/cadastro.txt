@@ -1,0 +1,9 @@
+José;35
+Heraldo;49
+Renata;43
+Giovane;16
+Lucilia;78
+Denival;40
+Rogério;40
+Carlos;32
+João;57
